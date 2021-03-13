@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name carcaraFC-rescue)(type Legacy)(uri ${KIPRJMOD}/carcaraFC-rescue.lib)(options "")(descr ""))
+)
