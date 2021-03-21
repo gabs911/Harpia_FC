@@ -7,14 +7,14 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.9)-1"
     },
-    "CreationDate":  "2021-03-13T11:21:55-03:00"
+    "CreationDate":  "2021-03-21T01:20:58-03:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "carcaraFC",
-      "GUID": "63617263-6172-4614-9643-2e6b69636164",
+      "Name": "harpiafc",
+      "GUID": "68617270-6961-4666-932e-6b696361645f",
       "Revision": "rev?"
     },
     "Size":
@@ -40,47 +40,47 @@
   "FilesAttributes":
   [
     {
-      "Path":  "carcaraFC-F_Cu.gbr",
+      "Path":  "harpiafc-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "carcaraFC-B_Cu.gbr",
+      "Path":  "harpiafc-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "carcaraFC-F_Paste.gbr",
+      "Path":  "harpiafc-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "carcaraFC-B_Paste.gbr",
+      "Path":  "harpiafc-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "carcaraFC-F_SilkS.gbr",
+      "Path":  "harpiafc-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "carcaraFC-B_SilkS.gbr",
+      "Path":  "harpiafc-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "carcaraFC-F_Mask.gbr",
+      "Path":  "harpiafc-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "carcaraFC-B_Mask.gbr",
+      "Path":  "harpiafc-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "carcaraFC-Edge_Cuts.gbr",
+      "Path":  "harpiafc-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }
